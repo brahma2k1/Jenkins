@@ -3,7 +3,8 @@
   <groupId>org.durga</groupId>
   <artifactId>org.durgasample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <build>      
+  <build>    
+	  
   	<plugins>
 		
   	  <plugin>
