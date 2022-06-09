@@ -53,5 +53,6 @@ public class TestNG1 {
   @AfterSuite
   public void afterSuite() {
 	  System.out.println("aftersuite");
+	  
   }
 }
